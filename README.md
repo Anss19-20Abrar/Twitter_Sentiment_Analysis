@@ -8,7 +8,7 @@ It aims to classify tweets as positive, negative, or neutral based on their text
 
 ## **Features**
 
-- **Data Collection**: Collects real-time tweets using the Twitter API or pre-existing datasets.
+- **Data Collection**: Collects real-time tweets using the Twitter API or pre-existing datasets.(https://www.kaggle.com/datasets/kazanova/sentiment140)
 - **Data Preprocessing**: Cleans and preprocesses the tweet text by removing noise, stopwords, and special characters.
 - **Sentiment Analysis**: Classifies tweets into positive, negative, or neutral categories using machine learning models trained on labeled data.
 - **Visualization**: Generates visualizations such as word clouds, sentiment distribution plots, and trend analysis graphs.
